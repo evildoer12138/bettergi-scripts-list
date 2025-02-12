@@ -1,5 +1,5 @@
 {
-  "time": "20250212185009",
+  "time": "20250212185409",
   "url": "https://github.com/babalae/bettergi-scripts-list/archive/refs/heads/main.zip",
   "file": "repo.json",
   "indexes": [
@@ -9568,6 +9568,13 @@
               ]
             }
           ]
+        },
+        {
+          "name": "提瓦特钓鱼指南",
+          "type": "file",
+          "hash": "82c40ef2cc0f00b76619042a405efe076919eb40",
+          "version": "82c40ef",
+          "error": "Unexpected token 提 in JSON at position 0"
         },
         {
           "name": "天云草实",
